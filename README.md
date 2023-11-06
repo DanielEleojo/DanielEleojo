@@ -1,7 +1,7 @@
-[![MasterHead](https://giphy.com/embed/26tn33aiTi1jkl6H6)]()
+
 <h1 align="center">Hi 👋, I'm Daniel Baba</h1>
 <h3 align="center">A passionate Data Scientist</h3>
-<div style="width:100%;height:0;padding-bottom:55%;position:relative;"><iframe src="https://giphy.com/embed/4rZA5D22301iMgrUNd" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/tecnicageracao-4rZA5D22301iMgrUNd">via GIPHY</a></p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danieleleojo&label=Profile%20views&color=0e75b6&style=flat" alt="danieleleojo" /> </p>
 
