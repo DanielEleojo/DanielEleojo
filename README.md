@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danieleleojo&label=Profile%20views&color=0e75b6&style=flat" alt="danieleleojo" /> </p>
 
-- 🔭 I’m currently working on **AI Personal Assistant**
+- 🔭 I’m currently working on **Crypto-X Sentiment Analysis**
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **R**
 
-- 🤝 I’m looking for help with **AI projects**
+- 🤝 I’m looking for help with **AI**
 
 - 💬 Ask me about **Python**
 
