@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danieleleojo&label=Profile%20views&color=0e75b6&style=flat" alt="danieleleojo" /> </p>
 
-- 🔭 I’m currently working on **Crypto-X Sentiment Analysis**
+- 🔭 I’m currently working on **NetworkAI**
 
-- 🌱 I’m currently learning **R**
+- 🌱 I’m currently learning **Flutter**
 
 - 🤝 I’m looking for help with **AI**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **danielbaba029@gmail.com**
 
-- ⚡ Fun fact **I learn quick**
+- ⚡ Fun fact **I love tea**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
