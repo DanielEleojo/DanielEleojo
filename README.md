@@ -30,7 +30,13 @@ Final-year Computer Science student (Math minor) at Ontario Tech University, gra
 | **[Chess Master](https://github.com/DanielEleojo/chess-master)** | Chess training app that turns my own games into the curriculum — chess.com sync, in-browser Stockfish blunder detection, my mistakes dealt back as drills, and an LLM coach that narrates facts computed by code. | TypeScript · React · Cloudflare Workers |
 | **[AstroIdentify](https://github.com/DanielEleojo/AstroIdentify)** | Constellation classifier: ResNet18 transfer learning to **86% test accuracy** across 12 classes, served via Flask web app + JSON API with secure uploads and structured error handling. Built with a teammate. | PyTorch · Flask |
 | **[Fake-News Checker](https://github.com/DanielEleojo/FAKE-REAL-News-Checker)** | Classifies news as real or fake with TF-IDF features and scikit-learn. | Python · scikit-learn |
+| **[Lume Area Scout](https://github.com/DanielEleojo/Knockers)** | Door-knocking territory scorer born from my own sales job — resolves any map rectangle to StatCan census areas and computes a population-weighted 0–100 Knock Score from income, density, and dwelling data. Installable PWA with a field tracker. | JavaScript · Leaflet · StatCan/CensusMapper APIs |
 | **[Internship Analytics](https://github.com/DanielEleojo/Sylip-Dashboard)** | Marketing & enrollment analytics from my Business Data Analyst internship — two full reporting cycles from raw data to Power BI dashboards and stakeholder recommendations. | Power BI · Excel |
+
+### 🎮 Games I'm Building
+
+- **[Tribulation](https://github.com/DanielEleojo/tribulation)** — Godot 4 mobile endless runner where every obstacle is a telegraphed martial-arts attack to read and counter
+- **[Ori Ascendant](https://github.com/DanielEleojo/Ori-Ascendant)** — Unity idle-cultivation game grounded in Igala/Yoruba/Igbo cosmology
 
 ---
 
