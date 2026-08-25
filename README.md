@@ -29,7 +29,7 @@ Final-year Computer Science student (Math minor) at Ontario Tech University, gra
 | **[DigitalEyez](https://github.com/DanielEleojo/Digital-Eyez)** | AI accessibility assistant for low-vision users — real-time hazard detection, scene description, and OCR read-aloud, powered by a locally hosted multimodal LLM (LLaVA-1.5-7B) behind a Flask API. Team project, HackHive 2025. | Python · Flask · React · Transformers |
 | **[AstroIdentify](https://github.com/DanielEleojo/AstroIdentify)** | Constellation classifier: ResNet18 transfer learning to **86% test accuracy** across 12 classes, served via Flask web app + JSON API with secure uploads and structured error handling. | PyTorch · Flask |
 | **[Fake-News Checker](https://github.com/DanielEleojo/FAKE-REAL-News-Checker)** | Classifies news as real or fake with TF-IDF features and scikit-learn. | Python · scikit-learn |
-| **Sylip Sales Dashboard** | Interactive Power BI dashboard over 8 years of sales data — revenue/profit KPIs, YoY growth, category trends; surfaced the $32M peak year and drivers of a 15% product performance lift. | Power BI · Excel |
+| **[Internship Analytics](https://github.com/DanielEleojo/Sylip-Dashboard)** | Marketing & enrollment analytics from my Business Data Analyst internship — two full reporting cycles from raw data to Power BI dashboards and stakeholder recommendations. | Power BI · Excel |
 
 ---
 
@@ -40,20 +40,6 @@ Final-year Computer Science student (Math minor) at Ontario Tech University, gra
 </p>
 
 <p align="center"><i>Also: Power BI · Excel · pandas · Predictive modeling</i></p>
-
----
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=danieleleojo&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieleleojo&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" height="165"/>
-
-  <br/><br/>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=danieleleojo&theme=tokyo-night&hide_border=true&color=00c9a7&line=0e75b6&point=ffffff" alt="Activity Graph" />
-
-</div>
 
 ---
 
