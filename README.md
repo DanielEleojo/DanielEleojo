@@ -27,7 +27,8 @@ Final-year Computer Science student (Math minor) at Ontario Tech University, gra
 | Project | Description | Stack |
 |--------|-------------|-------|
 | **[DigitalEyez](https://github.com/DanielEleojo/Digital-Eyez)** | AI accessibility assistant for low-vision users — real-time hazard detection, scene description, and OCR read-aloud, powered by a locally hosted multimodal LLM (LLaVA-1.5-7B) behind a Flask API. Team project, HackHive 2025. | Python · Flask · React · Transformers |
-| **[AstroIdentify](https://github.com/DanielEleojo/AstroIdentify)** | Constellation classifier: ResNet18 transfer learning to **86% test accuracy** across 12 classes, served via Flask web app + JSON API with secure uploads and structured error handling. | PyTorch · Flask |
+| **[Chess Master](https://github.com/DanielEleojo/chess-master)** | Chess training app that turns my own games into the curriculum — chess.com sync, in-browser Stockfish blunder detection, my mistakes dealt back as drills, and an LLM coach that narrates facts computed by code. | TypeScript · React · Cloudflare Workers |
+| **[AstroIdentify](https://github.com/DanielEleojo/AstroIdentify)** | Constellation classifier: ResNet18 transfer learning to **86% test accuracy** across 12 classes, served via Flask web app + JSON API with secure uploads and structured error handling. Built with a teammate. | PyTorch · Flask |
 | **[Fake-News Checker](https://github.com/DanielEleojo/FAKE-REAL-News-Checker)** | Classifies news as real or fake with TF-IDF features and scikit-learn. | Python · scikit-learn |
 | **[Internship Analytics](https://github.com/DanielEleojo/Sylip-Dashboard)** | Marketing & enrollment analytics from my Business Data Analyst internship — two full reporting cycles from raw data to Power BI dashboards and stakeholder recommendations. | Power BI · Excel |
 
